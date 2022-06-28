@@ -29,3 +29,6 @@ Next, I decided to add alt text to the images. After opening each one, I include
 were as if I were describing it to someone who could not see it at all.
 
 Next, I checked that the heading elements were in order.
+
+## LINK:
+https://rjschroeder.github.io/Module1ChallengeRS/
